@@ -14,10 +14,12 @@ function Hero() {
           <br/>mulai dari untuk membangun rumah hingga memulai bisnis baru diatasnya!
         </p>
         <div className='flex justify-center mt-4'>
+        <a href="https://wa.me/6282144036169" target="_blank" rel="noopener noreferrer">
         <button className="flex items-center justify-center px-4 py-2 bg-green-950 text-yellow-400 rounded-md">
             <img className="h-6 mr-2" src={callIcon}/>
             <span className="font-medium">Hubungi Kami Sekarang</span>
         </button>
+        </a>
         </div>
       </div>
     </div>

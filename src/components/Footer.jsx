@@ -30,7 +30,9 @@ function Footer() {
             Sosial Media Kami
         </div>
         <p className='flex'>
+        <a href="https://wa.me/6282144036169" target="_blank" rel="noopener noreferrer">
         <img src={wa} className='mt-1'/>
+        </a>
         <img src={fb} className='mx-4 mt-1'/>
         </p>
       </div>

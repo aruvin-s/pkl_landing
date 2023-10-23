@@ -56,10 +56,12 @@ function Details() {
             <p className="text-center text-md font-semibold text-green-950 mt-2 w-64">Free AJB, Pajak, SHM, Admin, Notaris</p>
             </div>
                 <div className='flex justify-center mt-2'>
-                    <button className="flex items-center justify-center px-4 py-2 bg-green-950 text-yellow-400 rounded-md">
-                        <img className="h-6 mr-2" src={callIcon}/>
-                        <span className="font-medium">Hubungi Kami</span>
-                    </button>
+                <a href="https://wa.me/6282144036169" target="_blank" rel="noopener noreferrer">
+                <button className="flex items-center justify-center px-4 py-2 bg-green-950 text-yellow-400 rounded-md">
+                    <img className="h-6 mr-2" src={callIcon}/>
+                    <span className="font-medium">Hubungi Kami</span>
+                </button>
+                </a>
                 </div>
             </div>
         </div>

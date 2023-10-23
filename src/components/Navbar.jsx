@@ -44,7 +44,9 @@ function Navbar() {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://wa.me/6282144036169"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className=" hover:text-yellow-300 px-3 py-2 rounded-md text-sm font-medium"
                 >
                   Contact Us
